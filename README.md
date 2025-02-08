@@ -1,12 +1,27 @@
 # Hi there 👋
 
-<p style="text-align: center;"> 
+<p align="center">
   <img alt="Top Langs" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lzh-Function&layout=compact&show_icons=true&theme=dracula" />
   <img alt="github stats" height="140px" src="https://github-readme-stats.vercel.app/api?username=Lzh-Function&theme=dracula&show_icons=true" />
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Lzh-Function&theme=onedark&column=8
-)](https://github.com/ryo-ma/github-profile-trophy)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lzh-Function&theme=date_night)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Lzh-Function&theme=onedark&column=8" alt="trophy">
+  </a>
+</p>
+
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img alt="profile details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lzh-Function&theme=date_night" />
+      </td>
+      <td align="center">
+        <img alt="productive time" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lzh-Function&theme=date_night&utcOffset=8" />
+      </td>
+    </tr>
+  </table>
 </p>
 <!--
 **Lzh-Function/Lzh-Function** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
