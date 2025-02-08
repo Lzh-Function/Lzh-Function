@@ -18,7 +18,7 @@
         <img alt="profile details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lzh-Function&theme=date_night" />
       </td>
       <td align="center">
-        <img alt="productive time" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lzh-Function&theme=date_night&utcOffset=8" />
+        <img alt="productive time" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lzh-Function&theme=date_night&utcOffset=9" />
       </td>
     </tr>
   </table>
