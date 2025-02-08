@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <p style="text-align: center;"> 
   <img alt="Top Langs" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lzh-Function&layout=compact&show_icons=true&theme=dracula" />
